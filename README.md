@@ -10,8 +10,8 @@ python setup.py install
 %ls
 Data 
 %python
->>import ecd2csv
->>quit()
+>>> import ecd2csv
+>>> quit()
 %ls
 Data output
 ```
