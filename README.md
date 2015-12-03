@@ -11,4 +11,7 @@ python setup.py install
 Data 
 %python
 >>import ecd2csv
+>>quit()
+%ls
+Data output
 ```
